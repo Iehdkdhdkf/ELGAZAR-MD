@@ -110,7 +110,7 @@ global.youtube = yt
 global.ig = 'https://www.tiktok.com/@q.r.a.n_0?_t=8YwfdTqNdDR&_r=1'
 global.gatadiosig = ig
 
-global.md = 'https://github.com/ahmed1pMD'
+global.md = 'https://github.com/ahmed1pD'
 global.gatabot = md
 
 global.nna = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
